@@ -18,33 +18,39 @@ Java, Python, JavaScript, TypeScript, C/C++, SQL
 React, Vite, React Native, HTML, CSS
 
 **Backend**
-Node.js, Express, REST APIs, Spring Boot
+Node.js, Express, REST APIs, Django, Spring Boot
 
 **Databases and Auth**
 PostgreSQL, MySQL, Supabase
 
 **Tools and Platforms**
-Git, GitHub, VS Code, Docker, AWS, Google Cloud APIs
+Git, GitHub, GitHub Actions, VS Code, Docker, AWS, Google Cloud APIs
 
-## Featured Projects
-
-### FolioCrate
-
-A full-stack application focused on organizing and managing portfolio or document-based content.
-
-**Tech:** React, Vite, Spring Boot, PostgreSQL
-
-### IssueFlow
-
-A role-based ticketing and knowledge base application with authentication, user roles, and CRUD functionality.
-
-**Tech:** React, TypeScript, Node.js, Express, Supabase, PostgreSQL
+## Projects
 
 ### Refuge
 
 A mobile emergency preparedness application that helps users locate nearby shelters, filter by distance and status, and access shelter information during severe weather situations.
 
-**Tech:** React Native, Expo, Supabase, Google Maps API, FEMA shelter data
+**Tech:** React Native, Expo, Supabase, Google Maps API, FEMA shelter data, Jest, GitHub Actions
+
+### Magidemia
+
+An educational game suite designed to simulate neurodivergent learning challenges through interactive tasks, adaptive difficulty, save states, tutorials, metrics, and accessibility-focused UI features.
+
+**Tech:** Next.js, React, TypeScript, CSS
+
+### Suni
+
+A full-stack travel itinerary planning platform with authentication, dynamic dashboards, and features for organizing trip details in one place. I also contributed as Git Master by helping manage branching strategy, coding standards, and merge conflicts.
+
+**Tech:** React, Django, PostgreSQL
+
+### FolioCrate, in progress
+
+A full-stack project focused on organizing and managing portfolio or document-based content while practicing backend structure, frontend design, and database integration.
+
+**Tech:** React, Vite, Spring Boot, PostgreSQL
 
 ## What I'm Working On
 
@@ -54,6 +60,8 @@ A mobile emergency preparedness application that helps users locate nearby shelt
 * Preparing for software engineering interviews and new graduate roles
 
 ## GitHub Stats
+
+![Jeramyah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeramyahmalveaux\&show_icons=true\&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeramyahmalveaux\&layout=compact\&theme=default)
 
