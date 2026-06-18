@@ -55,13 +55,11 @@ A mobile emergency preparedness application that helps users locate nearby shelt
 
 ## GitHub Stats
 
-![Jeramyah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeramyahmalveaux\&show_icons=true\&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeramyahmalveaux\&layout=compact\&theme=default)
 
 ## Connect With Me
 
 * Portfolio: [jeramyahmalveaux.github.io/PersonalPortfolio](https://jeramyahmalveaux.github.io/PersonalPortfolio/)
 * GitHub: [github.com/jeramyahmalveaux](https://github.com/jeramyahmalveaux)
-* LinkedIn: [Add your LinkedIn here](https://www.linkedin.com/)
-* Email: [Add your email here](mailto:your-email@example.com)
+* LinkedIn: [www.linkedin.com/in/jeramyahmalveaux](https://www.linkedin.com/)
+* Email: [jeramyah321@gmail.com](mailto:your-email@example.com)
