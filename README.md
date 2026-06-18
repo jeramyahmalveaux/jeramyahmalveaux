@@ -61,8 +61,6 @@ A full-stack project focused on organizing and managing portfolio or document-ba
 
 ## GitHub Stats
 
-![Jeramyah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeramyahmalveaux\&show_icons=true\&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeramyahmalveaux\&layout=compact\&theme=default)
 
 ## Connect With Me
